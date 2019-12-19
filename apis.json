@@ -1,0 +1,50 @@
+{
+    "name": "Stringify",
+    "description": "<p>They are hard at work developing new ways to help you connect your life. This begins with a solution that helps you discover, design and control new experiences by meaningfully connecting those things that matter most. They're helping connect our life so you can live it.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/stringify-logo.png",
+    "tags": [
+        "automation",
+        "have api",
+        "interoperability",
+        "ipaas"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/stringify\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Stringify",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/stringify-logo.png",
+            "humanURL": "https:\/\/www.stringify.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/stringify-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.stringify.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.stringify.com\/feed\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/StringifyIt"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.stringify.com"
+        }
+    ]
+}
